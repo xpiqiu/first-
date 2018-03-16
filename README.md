@@ -36,8 +36,7 @@ some layout change:
 ```java
 <ImageView
     android:id="@+id/refresh"
-    android:layout_width="48dp"
-    android:layout_height="48dp"
+    android:layout_width="48dp"    android:layout_height="48dp"
     android:layout_alignBottom="@+id/linearLayout"
     android:layout_gravity="center"
     android:layout_marginBottom="16dp"
@@ -112,9 +111,7 @@ private class DownloadUpdate extends AsyncTask<String, Void, String> {
 ```
 Part5:Final effect
 -
-![](https://github.com/xpiqiu/first-/blob/master/before.png)
-
-![](https://github.com/xpiqiu/first-/blob/master/after.png)
+![](https://github.com/xpiqiu/first-/blob/master/before.png) ![](https://github.com/xpiqiu/first-/blob/master/after.png)
 
 
  
